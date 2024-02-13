@@ -1,0 +1,17 @@
+openai==0.28
+pandas
+numpy
+google
+SpeechRecognition
+pyaudio
+pydub
+sounddevice
+noisereduce
+gtts
+Pillow
+requests
+fastapi[all]
+uvicorn
+scipy
+ftfy
+ipykernel
